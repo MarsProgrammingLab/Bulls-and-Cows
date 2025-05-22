@@ -1,0 +1,14 @@
+type: edu
+files:
+  - name: src/bullscows/Main.java
+    visible: true
+    learner_created: false
+  - name: test/BullsCowsTest.java
+    visible: false
+    learner_created: false
+feedback_link: https://hyperskill.org/learn/step/5433#comment
+status: Solved
+feedback:
+  message: Congratulations!
+  time: "Tue, 13 May 2025 18:58:42 UTC"
+record: 5

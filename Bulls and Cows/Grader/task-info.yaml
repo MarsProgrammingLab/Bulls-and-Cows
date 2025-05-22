@@ -1,0 +1,17 @@
+type: edu
+files:
+  - name: src/bullscows/stage2/Main.java
+    visible: true
+    learner_created: false
+  - name: test/BullsCowsTest.java
+    visible: false
+    learner_created: false
+  - name: src/bullscows/Main.java
+    visible: true
+    learner_created: true
+feedback_link: https://hyperskill.org/learn/step/5430#comment
+status: Solved
+feedback:
+  message: Congratulations!
+  time: "Wed, 23 Apr 2025 01:33:19 UTC"
+record: 2

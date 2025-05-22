@@ -1,0 +1,15 @@
+type: edu
+custom_name: Game time!
+files:
+  - name: src/bullscows/Main.java
+    visible: true
+    learner_created: false
+  - name: test/BullsCowsTest.java
+    visible: false
+    learner_created: false
+feedback_link: https://hyperskill.org/learn/step/5432#comment
+status: Solved
+feedback:
+  message: Congratulations!
+  time: "Tue, 13 May 2025 18:50:26 UTC"
+record: 4

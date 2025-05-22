@@ -1,0 +1,3385 @@
+[1;31m
+Start test 1[0m
+%Input the length of the secret code:
+> 1
+2Input the number of possible symbols in the code:
+> 10
+&The secret is prepared: * (0-9, a-9) 
+8
+Turn 1:
+> 0
+8
+Grade: none
+Turn 2:
+> 1
+8
+Grade: none
+Turn 3:
+> 2
+8
+Grade: none
+Turn 4:
+> 3
+8
+Grade: none
+Turn 5:
+> 4
+8
+Grade: none
+Turn 6:
+> 5
+8
+Grade: none
+Turn 7:
+> 6
+8
+Grade: none
+Turn 8:
+> 7
+8
+Grade: none
+Turn 9:
+> 8
+8
+Grade: 1 bulls.
+.Congratulations! You guessed the secret code.
+[1;31m
+Start test 2[0m
+%Input the length of the secret code:
+> 4
+2Input the number of possible symbols in the code:
+> 10
+)The secret is prepared: **** (0-9, a-9) 
+340a
+Turn 1:
+> 0000
+340a
+Grade: 1 bull.
+Turn 2:
+> 1111
+340a
+Grade: none
+Turn 3:
+> 2222
+340a
+Grade: none
+Turn 4:
+> 3333
+340a
+Grade: 1 bull.
+Turn 5:
+> 4444
+340a
+Grade: 1 bull.
+Turn 6:
+> 5555
+340a
+Grade: none
+Turn 7:
+> 6666
+340a
+Grade: none
+Turn 8:
+> 7777
+340a
+Grade: none
+Turn 9:
+> 8888
+340a
+Grade: none
+	Turn 10:
+> 9999
+340a
+Grade: none
+	Turn 11:
+> aaaa
+340a
+Grade: 1 bull.
+	Turn 12:
+> 034a
+340a
+Grade: 1 bull and 3 cows.
+	Turn 13:
+> 304a
+340a
+Grade: 2 bulls and 2 cows.
+	Turn 14:
+> 403a
+340a
+Grade: 1 bull and 3 cows.
+	Turn 15:
+> 043a
+340a
+Grade: 2 bulls and 2 cows.
+	Turn 16:
+> 340a
+340a
+Grade: 4 bulls.
+.Congratulations! You guessed the secret code.
+[1;31m
+Start test 3[0m
+%Input the length of the secret code:
+> 6
+2Input the number of possible symbols in the code:
+> 10
++The secret is prepared: ****** (0-9, a-9) 
+8dv4s0
+Turn 1:
+	> 000000
+8dv4s0
+Grade: 1 bull.
+Turn 2:
+	> 111111
+8dv4s0
+Grade: none
+Turn 3:
+	> 222222
+8dv4s0
+Grade: none
+Turn 4:
+	> 333333
+8dv4s0
+Grade: none
+Turn 5:
+	> 444444
+8dv4s0
+Grade: 1 bull.
+Turn 6:
+	> 555555
+8dv4s0
+Grade: none
+Turn 7:
+	> 666666
+8dv4s0
+Grade: none
+Turn 8:
+	> 777777
+8dv4s0
+Grade: none
+Turn 9:
+	> 888888
+8dv4s0
+Grade: 1 bull.
+	Turn 10:
+	> 999999
+8dv4s0
+Grade: none
+	Turn 11:
+	> aaaaaa
+8dv4s0
+Grade: none
+	Turn 12:
+	> bbbbbb
+8dv4s0
+Grade: none
+	Turn 13:
+	> cccccc
+8dv4s0
+Grade: none
+	Turn 14:
+	> dddddd
+8dv4s0
+Grade: 1 bull.
+	Turn 15:
+	> eeeeee
+8dv4s0
+Grade: none
+	Turn 16:
+	> ffffff
+8dv4s0
+Grade: none
+	Turn 17:
+	> gggggg
+8dv4s0
+Grade: none
+	Turn 18:
+	> hhhhhh
+8dv4s0
+Grade: none
+	Turn 19:
+	> iiiiii
+8dv4s0
+Grade: none
+	Turn 20:
+	> jjjjjj
+8dv4s0
+Grade: none
+	Turn 21:
+	> kkkkkk
+8dv4s0
+Grade: none
+	Turn 22:
+	> llllll
+8dv4s0
+Grade: none
+	Turn 23:
+	> mmmmmm
+8dv4s0
+Grade: none
+	Turn 24:
+	> nnnnnn
+8dv4s0
+Grade: none
+	Turn 25:
+	> oooooo
+8dv4s0
+Grade: none
+	Turn 26:
+	> pppppp
+8dv4s0
+Grade: none
+	Turn 27:
+	> qqqqqq
+8dv4s0
+Grade: none
+	Turn 28:
+	> rrrrrr
+8dv4s0
+Grade: none
+	Turn 29:
+	> ssssss
+8dv4s0
+Grade: 1 bull.
+	Turn 30:
+	> tttttt
+8dv4s0
+Grade: none
+	Turn 31:
+	> uuuuuu
+8dv4s0
+Grade: none
+	Turn 32:
+	> vvvvvv
+8dv4s0
+Grade: 1 bull.
+	Turn 33:
+	> 048dsv
+8dv4s0
+Grade: 1 bull and 5 cows.
+	Turn 34:
+	> 408dsv
+8dv4s0
+Grade: 1 bull and 5 cows.
+	Turn 35:
+	> 804dsv
+8dv4s0
+Grade: 2 bulls and 4 cows.
+	Turn 36:
+	> 084dsv
+8dv4s0
+Grade: 1 bull and 5 cows.
+	Turn 37:
+	> 480dsv
+8dv4s0
+Grade: 1 bull and 5 cows.
+	Turn 38:
+	> 840dsv
+8dv4s0
+Grade: 2 bulls and 4 cows.
+	Turn 39:
+	> d408sv
+8dv4s0
+Grade: 1 bull and 5 cows.
+	Turn 40:
+	> 4d08sv
+8dv4s0
+Grade: 2 bulls and 4 cows.
+	Turn 41:
+	> 0d48sv
+8dv4s0
+Grade: 2 bulls and 4 cows.
+	Turn 42:
+	> d048sv
+8dv4s0
+Grade: 1 bull and 5 cows.
+	Turn 43:
+	> 40d8sv
+8dv4s0
+Grade: 1 bull and 5 cows.
+	Turn 44:
+	> 04d8sv
+8dv4s0
+Grade: 1 bull and 5 cows.
+	Turn 45:
+	> 08d4sv
+8dv4s0
+Grade: 2 bulls and 4 cows.
+	Turn 46:
+	> 80d4sv
+8dv4s0
+Grade: 3 bulls and 3 cows.
+	Turn 47:
+	> d084sv
+8dv4s0
+Grade: 2 bulls and 4 cows.
+	Turn 48:
+	> 0d84sv
+8dv4s0
+Grade: 3 bulls and 3 cows.
+	Turn 49:
+	> 8d04sv
+8dv4s0
+Grade: 4 bulls and 2 cows.
+	Turn 50:
+	> d804sv
+8dv4s0
+Grade: 2 bulls and 4 cows.
+	Turn 51:
+	> d840sv
+8dv4s0
+Grade: 1 bull and 5 cows.
+	Turn 52:
+	> 8d40sv
+8dv4s0
+Grade: 3 bulls and 3 cows.
+	Turn 53:
+	> 4d80sv
+8dv4s0
+Grade: 2 bulls and 4 cows.
+	Turn 54:
+	> d480sv
+8dv4s0
+Grade: 1 bull and 5 cows.
+	Turn 55:
+	> 84d0sv
+8dv4s0
+Grade: 2 bulls and 4 cows.
+	Turn 56:
+	> 48d0sv
+8dv4s0
+Grade: 1 bull and 5 cows.
+	Turn 57:
+	> s8d04v
+8dv4s0
+Grade: 6 cows.
+	Turn 58:
+	> 8sd04v
+8dv4s0
+Grade: 1 bull and 5 cows.
+	Turn 59:
+	> ds804v
+8dv4s0
+Grade: 6 cows.
+	Turn 60:
+	> sd804v
+8dv4s0
+Grade: 1 bull and 5 cows.
+	Turn 61:
+	> 8ds04v
+8dv4s0
+Grade: 2 bulls and 4 cows.
+	Turn 62:
+	> d8s04v
+8dv4s0
+Grade: 6 cows.
+	Turn 63:
+	> 08sd4v
+8dv4s0
+Grade: 6 cows.
+	Turn 64:
+	> 80sd4v
+8dv4s0
+Grade: 1 bull and 5 cows.
+	Turn 65:
+	> s08d4v
+8dv4s0
+Grade: 6 cows.
+	Turn 66:
+	> 0s8d4v
+8dv4s0
+Grade: 6 cows.
+	Turn 67:
+	> 8s0d4v
+8dv4s0
+Grade: 1 bull and 5 cows.
+	Turn 68:
+	> s80d4v
+8dv4s0
+Grade: 6 cows.
+	Turn 69:
+	> sd084v
+8dv4s0
+Grade: 1 bull and 5 cows.
+	Turn 70:
+	> ds084v
+8dv4s0
+Grade: 6 cows.
+	Turn 71:
+	> 0sd84v
+8dv4s0
+Grade: 6 cows.
+	Turn 72:
+	> s0d84v
+8dv4s0
+Grade: 6 cows.
+	Turn 73:
+	> d0s84v
+8dv4s0
+Grade: 6 cows.
+	Turn 74:
+	> 0ds84v
+8dv4s0
+Grade: 1 bull and 5 cows.
+	Turn 75:
+	> 0d8s4v
+8dv4s0
+Grade: 1 bull and 5 cows.
+	Turn 76:
+	> d08s4v
+8dv4s0
+Grade: 6 cows.
+	Turn 77:
+	> 80ds4v
+8dv4s0
+Grade: 1 bull and 5 cows.
+	Turn 78:
+	> 08ds4v
+8dv4s0
+Grade: 6 cows.
+	Turn 79:
+	> d80s4v
+8dv4s0
+Grade: 6 cows.
+	Turn 80:
+	> 8d0s4v
+8dv4s0
+Grade: 2 bulls and 4 cows.
+	Turn 81:
+	> 4d0s8v
+8dv4s0
+Grade: 1 bull and 5 cows.
+	Turn 82:
+	> d40s8v
+8dv4s0
+Grade: 6 cows.
+	Turn 83:
+	> 04ds8v
+8dv4s0
+Grade: 6 cows.
+	Turn 84:
+	> 40ds8v
+8dv4s0
+Grade: 6 cows.
+	Turn 85:
+	> d04s8v
+8dv4s0
+Grade: 6 cows.
+	Turn 86:
+	> 0d4s8v
+8dv4s0
+Grade: 1 bull and 5 cows.
+	Turn 87:
+	> sd408v
+8dv4s0
+Grade: 1 bull and 5 cows.
+	Turn 88:
+	> ds408v
+8dv4s0
+Grade: 6 cows.
+	Turn 89:
+	> 4sd08v
+8dv4s0
+Grade: 6 cows.
+	Turn 90:
+	> s4d08v
+8dv4s0
+Grade: 6 cows.
+	Turn 91:
+	> d4s08v
+8dv4s0
+Grade: 6 cows.
+	Turn 92:
+	> 4ds08v
+8dv4s0
+Grade: 1 bull and 5 cows.
+	Turn 93:
+	> 40sd8v
+8dv4s0
+Grade: 6 cows.
+	Turn 94:
+	> 04sd8v
+8dv4s0
+Grade: 6 cows.
+	Turn 95:
+	> s40d8v
+8dv4s0
+Grade: 6 cows.
+	Turn 96:
+	> 4s0d8v
+8dv4s0
+Grade: 6 cows.
+	Turn 97:
+	> 0s4d8v
+8dv4s0
+Grade: 6 cows.
+	Turn 98:
+	> s04d8v
+8dv4s0
+Grade: 6 cows.
+	Turn 99:
+	> s0d48v
+8dv4s0
+Grade: 1 bull and 5 cows.
+
+Turn 100:
+	> 0sd48v
+8dv4s0
+Grade: 1 bull and 5 cows.
+
+Turn 101:
+	> ds048v
+8dv4s0
+Grade: 1 bull and 5 cows.
+
+Turn 102:
+	> sd048v
+8dv4s0
+Grade: 2 bulls and 4 cows.
+
+Turn 103:
+	> 0ds48v
+8dv4s0
+Grade: 2 bulls and 4 cows.
+
+Turn 104:
+	> d0s48v
+8dv4s0
+Grade: 1 bull and 5 cows.
+
+Turn 105:
+	> 80s4dv
+8dv4s0
+Grade: 2 bulls and 4 cows.
+
+Turn 106:
+	> 08s4dv
+8dv4s0
+Grade: 1 bull and 5 cows.
+
+Turn 107:
+	> s804dv
+8dv4s0
+Grade: 1 bull and 5 cows.
+
+Turn 108:
+	> 8s04dv
+8dv4s0
+Grade: 2 bulls and 4 cows.
+
+Turn 109:
+	> 0s84dv
+8dv4s0
+Grade: 1 bull and 5 cows.
+
+Turn 110:
+	> s084dv
+8dv4s0
+Grade: 1 bull and 5 cows.
+
+Turn 111:
+	> 408sdv
+8dv4s0
+Grade: 6 cows.
+
+Turn 112:
+	> 048sdv
+8dv4s0
+Grade: 6 cows.
+
+Turn 113:
+	> 840sdv
+8dv4s0
+Grade: 1 bull and 5 cows.
+
+Turn 114:
+	> 480sdv
+8dv4s0
+Grade: 6 cows.
+
+Turn 115:
+	> 084sdv
+8dv4s0
+Grade: 6 cows.
+
+Turn 116:
+	> 804sdv
+8dv4s0
+Grade: 1 bull and 5 cows.
+
+Turn 117:
+	> 8s40dv
+8dv4s0
+Grade: 1 bull and 5 cows.
+
+Turn 118:
+	> s840dv
+8dv4s0
+Grade: 6 cows.
+
+Turn 119:
+	> 48s0dv
+8dv4s0
+Grade: 6 cows.
+
+Turn 120:
+	> 84s0dv
+8dv4s0
+Grade: 1 bull and 5 cows.
+
+Turn 121:
+	> s480dv
+8dv4s0
+Grade: 6 cows.
+
+Turn 122:
+	> 4s80dv
+8dv4s0
+Grade: 6 cows.
+
+Turn 123:
+	> 4s08dv
+8dv4s0
+Grade: 6 cows.
+
+Turn 124:
+	> s408dv
+8dv4s0
+Grade: 6 cows.
+
+Turn 125:
+	> 04s8dv
+8dv4s0
+Grade: 6 cows.
+
+Turn 126:
+	> 40s8dv
+8dv4s0
+Grade: 6 cows.
+
+Turn 127:
+	> s048dv
+8dv4s0
+Grade: 6 cows.
+
+Turn 128:
+	> 0s48dv
+8dv4s0
+Grade: 6 cows.
+
+Turn 129:
+	> ds480v
+8dv4s0
+Grade: 6 cows.
+
+Turn 130:
+	> sd480v
+8dv4s0
+Grade: 1 bull and 5 cows.
+
+Turn 131:
+	> 4ds80v
+8dv4s0
+Grade: 1 bull and 5 cows.
+
+Turn 132:
+	> d4s80v
+8dv4s0
+Grade: 6 cows.
+
+Turn 133:
+	> s4d80v
+8dv4s0
+Grade: 6 cows.
+
+Turn 134:
+	> 4sd80v
+8dv4s0
+Grade: 6 cows.
+
+Turn 135:
+	> 8sd40v
+8dv4s0
+Grade: 2 bulls and 4 cows.
+
+Turn 136:
+	> s8d40v
+8dv4s0
+Grade: 1 bull and 5 cows.
+
+Turn 137:
+	> d8s40v
+8dv4s0
+Grade: 1 bull and 5 cows.
+
+Turn 138:
+	> 8ds40v
+8dv4s0
+Grade: 3 bulls and 3 cows.
+
+Turn 139:
+	> sd840v
+8dv4s0
+Grade: 2 bulls and 4 cows.
+
+Turn 140:
+	> ds840v
+8dv4s0
+Grade: 1 bull and 5 cows.
+
+Turn 141:
+	> d48s0v
+8dv4s0
+Grade: 6 cows.
+
+Turn 142:
+	> 4d8s0v
+8dv4s0
+Grade: 1 bull and 5 cows.
+
+Turn 143:
+	> 8d4s0v
+8dv4s0
+Grade: 2 bulls and 4 cows.
+
+Turn 144:
+	> d84s0v
+8dv4s0
+Grade: 6 cows.
+
+Turn 145:
+	> 48ds0v
+8dv4s0
+Grade: 6 cows.
+
+Turn 146:
+	> 84ds0v
+8dv4s0
+Grade: 1 bull and 5 cows.
+
+Turn 147:
+	> 84sd0v
+8dv4s0
+Grade: 1 bull and 5 cows.
+
+Turn 148:
+	> 48sd0v
+8dv4s0
+Grade: 6 cows.
+
+Turn 149:
+	> s84d0v
+8dv4s0
+Grade: 6 cows.
+
+Turn 150:
+	> 8s4d0v
+8dv4s0
+Grade: 1 bull and 5 cows.
+
+Turn 151:
+	> 4s8d0v
+8dv4s0
+Grade: 6 cows.
+
+Turn 152:
+	> s48d0v
+8dv4s0
+Grade: 6 cows.
+
+Turn 153:
+	> v48d0s
+8dv4s0
+Grade: 6 cows.
+
+Turn 154:
+	> 4v8d0s
+8dv4s0
+Grade: 6 cows.
+
+Turn 155:
+	> 8v4d0s
+8dv4s0
+Grade: 1 bull and 5 cows.
+
+Turn 156:
+	> v84d0s
+8dv4s0
+Grade: 6 cows.
+
+Turn 157:
+	> 48vd0s
+8dv4s0
+Grade: 1 bull and 5 cows.
+
+Turn 158:
+	> 84vd0s
+8dv4s0
+Grade: 2 bulls and 4 cows.
+
+Turn 159:
+	> d4v80s
+8dv4s0
+Grade: 1 bull and 5 cows.
+
+Turn 160:
+	> 4dv80s
+8dv4s0
+Grade: 2 bulls and 4 cows.
+
+Turn 161:
+	> vd480s
+8dv4s0
+Grade: 1 bull and 5 cows.
+
+Turn 162:
+	> dv480s
+8dv4s0
+Grade: 6 cows.
+
+Turn 163:
+	> 4vd80s
+8dv4s0
+Grade: 6 cows.
+
+Turn 164:
+	> v4d80s
+8dv4s0
+Grade: 6 cows.
+
+Turn 165:
+	> v8d40s
+8dv4s0
+Grade: 1 bull and 5 cows.
+
+Turn 166:
+	> 8vd40s
+8dv4s0
+Grade: 2 bulls and 4 cows.
+
+Turn 167:
+	> dv840s
+8dv4s0
+Grade: 1 bull and 5 cows.
+
+Turn 168:
+	> vd840s
+8dv4s0
+Grade: 2 bulls and 4 cows.
+
+Turn 169:
+	> 8dv40s
+8dv4s0
+Grade: 4 bulls and 2 cows.
+
+Turn 170:
+	> d8v40s
+8dv4s0
+Grade: 2 bulls and 4 cows.
+
+Turn 171:
+	> d84v0s
+8dv4s0
+Grade: 6 cows.
+
+Turn 172:
+	> 8d4v0s
+8dv4s0
+Grade: 2 bulls and 4 cows.
+
+Turn 173:
+	> 4d8v0s
+8dv4s0
+Grade: 1 bull and 5 cows.
+
+Turn 174:
+	> d48v0s
+8dv4s0
+Grade: 6 cows.
+
+Turn 175:
+	> 84dv0s
+8dv4s0
+Grade: 1 bull and 5 cows.
+
+Turn 176:
+	> 48dv0s
+8dv4s0
+Grade: 6 cows.
+
+Turn 177:
+	> 08dv4s
+8dv4s0
+Grade: 6 cows.
+
+Turn 178:
+	> 80dv4s
+8dv4s0
+Grade: 1 bull and 5 cows.
+
+Turn 179:
+	> d08v4s
+8dv4s0
+Grade: 6 cows.
+
+Turn 180:
+	> 0d8v4s
+8dv4s0
+Grade: 1 bull and 5 cows.
+
+Turn 181:
+	> 8d0v4s
+8dv4s0
+Grade: 2 bulls and 4 cows.
+
+Turn 182:
+	> d80v4s
+8dv4s0
+Grade: 6 cows.
+
+Turn 183:
+	> v80d4s
+8dv4s0
+Grade: 6 cows.
+
+Turn 184:
+	> 8v0d4s
+8dv4s0
+Grade: 1 bull and 5 cows.
+
+Turn 185:
+	> 0v8d4s
+8dv4s0
+Grade: 6 cows.
+
+Turn 186:
+	> v08d4s
+8dv4s0
+Grade: 6 cows.
+
+Turn 187:
+	> 80vd4s
+8dv4s0
+Grade: 2 bulls and 4 cows.
+
+Turn 188:
+	> 08vd4s
+8dv4s0
+Grade: 1 bull and 5 cows.
+
+Turn 189:
+	> 0dv84s
+8dv4s0
+Grade: 2 bulls and 4 cows.
+
+Turn 190:
+	> d0v84s
+8dv4s0
+Grade: 1 bull and 5 cows.
+
+Turn 191:
+	> v0d84s
+8dv4s0
+Grade: 6 cows.
+
+Turn 192:
+	> 0vd84s
+8dv4s0
+Grade: 6 cows.
+
+Turn 193:
+	> dv084s
+8dv4s0
+Grade: 6 cows.
+
+Turn 194:
+	> vd084s
+8dv4s0
+Grade: 1 bull and 5 cows.
+
+Turn 195:
+	> vd804s
+8dv4s0
+Grade: 1 bull and 5 cows.
+
+Turn 196:
+	> dv804s
+8dv4s0
+Grade: 6 cows.
+
+Turn 197:
+	> 8vd04s
+8dv4s0
+Grade: 1 bull and 5 cows.
+
+Turn 198:
+	> v8d04s
+8dv4s0
+Grade: 6 cows.
+
+Turn 199:
+	> d8v04s
+8dv4s0
+Grade: 1 bull and 5 cows.
+
+Turn 200:
+	> 8dv04s
+8dv4s0
+Grade: 3 bulls and 3 cows.
+
+Turn 201:
+	> 4dv08s
+8dv4s0
+Grade: 2 bulls and 4 cows.
+
+Turn 202:
+	> d4v08s
+8dv4s0
+Grade: 1 bull and 5 cows.
+
+Turn 203:
+	> v4d08s
+8dv4s0
+Grade: 6 cows.
+
+Turn 204:
+	> 4vd08s
+8dv4s0
+Grade: 6 cows.
+
+Turn 205:
+	> dv408s
+8dv4s0
+Grade: 6 cows.
+
+Turn 206:
+	> vd408s
+8dv4s0
+Grade: 1 bull and 5 cows.
+
+Turn 207:
+	> 0d4v8s
+8dv4s0
+Grade: 1 bull and 5 cows.
+
+Turn 208:
+	> d04v8s
+8dv4s0
+Grade: 6 cows.
+
+Turn 209:
+	> 40dv8s
+8dv4s0
+Grade: 6 cows.
+
+Turn 210:
+	> 04dv8s
+8dv4s0
+Grade: 6 cows.
+
+Turn 211:
+	> d40v8s
+8dv4s0
+Grade: 6 cows.
+
+Turn 212:
+	> 4d0v8s
+8dv4s0
+Grade: 1 bull and 5 cows.
+
+Turn 213:
+	> 4v0d8s
+8dv4s0
+Grade: 6 cows.
+
+Turn 214:
+	> v40d8s
+8dv4s0
+Grade: 6 cows.
+
+Turn 215:
+	> 04vd8s
+8dv4s0
+Grade: 1 bull and 5 cows.
+
+Turn 216:
+	> 40vd8s
+8dv4s0
+Grade: 1 bull and 5 cows.
+
+Turn 217:
+	> v04d8s
+8dv4s0
+Grade: 6 cows.
+
+Turn 218:
+	> 0v4d8s
+8dv4s0
+Grade: 6 cows.
+
+Turn 219:
+	> 0vd48s
+8dv4s0
+Grade: 1 bull and 5 cows.
+
+Turn 220:
+	> v0d48s
+8dv4s0
+Grade: 1 bull and 5 cows.
+
+Turn 221:
+	> d0v48s
+8dv4s0
+Grade: 2 bulls and 4 cows.
+
+Turn 222:
+	> 0dv48s
+8dv4s0
+Grade: 3 bulls and 3 cows.
+
+Turn 223:
+	> vd048s
+8dv4s0
+Grade: 2 bulls and 4 cows.
+
+Turn 224:
+	> dv048s
+8dv4s0
+Grade: 1 bull and 5 cows.
+
+Turn 225:
+	> 8v04ds
+8dv4s0
+Grade: 2 bulls and 4 cows.
+
+Turn 226:
+	> v804ds
+8dv4s0
+Grade: 1 bull and 5 cows.
+
+Turn 227:
+	> 08v4ds
+8dv4s0
+Grade: 2 bulls and 4 cows.
+
+Turn 228:
+	> 80v4ds
+8dv4s0
+Grade: 3 bulls and 3 cows.
+
+Turn 229:
+	> v084ds
+8dv4s0
+Grade: 1 bull and 5 cows.
+
+Turn 230:
+	> 0v84ds
+8dv4s0
+Grade: 1 bull and 5 cows.
+
+Turn 231:
+	> 4v80ds
+8dv4s0
+Grade: 6 cows.
+
+Turn 232:
+	> v480ds
+8dv4s0
+Grade: 6 cows.
+
+Turn 233:
+	> 84v0ds
+8dv4s0
+Grade: 2 bulls and 4 cows.
+
+Turn 234:
+	> 48v0ds
+8dv4s0
+Grade: 1 bull and 5 cows.
+
+Turn 235:
+	> v840ds
+8dv4s0
+Grade: 6 cows.
+
+Turn 236:
+	> 8v40ds
+8dv4s0
+Grade: 1 bull and 5 cows.
+
+Turn 237:
+	> 804vds
+8dv4s0
+Grade: 1 bull and 5 cows.
+
+Turn 238:
+	> 084vds
+8dv4s0
+Grade: 6 cows.
+
+Turn 239:
+	> 480vds
+8dv4s0
+Grade: 6 cows.
+
+Turn 240:
+	> 840vds
+8dv4s0
+Grade: 1 bull and 5 cows.
+
+Turn 241:
+	> 048vds
+8dv4s0
+Grade: 6 cows.
+
+Turn 242:
+	> 408vds
+8dv4s0
+Grade: 6 cows.
+
+Turn 243:
+	> 40v8ds
+8dv4s0
+Grade: 1 bull and 5 cows.
+
+Turn 244:
+	> 04v8ds
+8dv4s0
+Grade: 1 bull and 5 cows.
+
+Turn 245:
+	> v408ds
+8dv4s0
+Grade: 6 cows.
+
+Turn 246:
+	> 4v08ds
+8dv4s0
+Grade: 6 cows.
+
+Turn 247:
+	> 0v48ds
+8dv4s0
+Grade: 6 cows.
+
+Turn 248:
+	> v048ds
+8dv4s0
+Grade: 6 cows.
+
+Turn 249:
+	> d048vs
+8dv4s0
+Grade: 6 cows.
+
+Turn 250:
+	> 0d48vs
+8dv4s0
+Grade: 1 bull and 5 cows.
+
+Turn 251:
+	> 4d08vs
+8dv4s0
+Grade: 1 bull and 5 cows.
+
+Turn 252:
+	> d408vs
+8dv4s0
+Grade: 6 cows.
+
+Turn 253:
+	> 04d8vs
+8dv4s0
+Grade: 6 cows.
+
+Turn 254:
+	> 40d8vs
+8dv4s0
+Grade: 6 cows.
+
+Turn 255:
+	> 80d4vs
+8dv4s0
+Grade: 2 bulls and 4 cows.
+
+Turn 256:
+	> 08d4vs
+8dv4s0
+Grade: 1 bull and 5 cows.
+
+Turn 257:
+	> d804vs
+8dv4s0
+Grade: 1 bull and 5 cows.
+
+Turn 258:
+	> 8d04vs
+8dv4s0
+Grade: 3 bulls and 3 cows.
+
+Turn 259:
+	> 0d84vs
+8dv4s0
+Grade: 2 bulls and 4 cows.
+
+Turn 260:
+	> d084vs
+8dv4s0
+Grade: 1 bull and 5 cows.
+
+Turn 261:
+	> d480vs
+8dv4s0
+Grade: 6 cows.
+
+Turn 262:
+	> 4d80vs
+8dv4s0
+Grade: 1 bull and 5 cows.
+
+Turn 263:
+	> 8d40vs
+8dv4s0
+Grade: 2 bulls and 4 cows.
+
+Turn 264:
+	> d840vs
+8dv4s0
+Grade: 6 cows.
+
+Turn 265:
+	> 48d0vs
+8dv4s0
+Grade: 6 cows.
+
+Turn 266:
+	> 84d0vs
+8dv4s0
+Grade: 1 bull and 5 cows.
+
+Turn 267:
+	> 840dvs
+8dv4s0
+Grade: 1 bull and 5 cows.
+
+Turn 268:
+	> 480dvs
+8dv4s0
+Grade: 6 cows.
+
+Turn 269:
+	> 084dvs
+8dv4s0
+Grade: 6 cows.
+
+Turn 270:
+	> 804dvs
+8dv4s0
+Grade: 1 bull and 5 cows.
+
+Turn 271:
+	> 408dvs
+8dv4s0
+Grade: 6 cows.
+
+Turn 272:
+	> 048dvs
+8dv4s0
+Grade: 6 cows.
+
+Turn 273:
+	> 0s8dv4
+8dv4s0
+Grade: 6 cows.
+
+Turn 274:
+	> s08dv4
+8dv4s0
+Grade: 6 cows.
+
+Turn 275:
+	> 80sdv4
+8dv4s0
+Grade: 1 bull and 5 cows.
+
+Turn 276:
+	> 08sdv4
+8dv4s0
+Grade: 6 cows.
+
+Turn 277:
+	> s80dv4
+8dv4s0
+Grade: 6 cows.
+
+Turn 278:
+	> 8s0dv4
+8dv4s0
+Grade: 1 bull and 5 cows.
+
+Turn 279:
+	> ds08v4
+8dv4s0
+Grade: 6 cows.
+
+Turn 280:
+	> sd08v4
+8dv4s0
+Grade: 1 bull and 5 cows.
+
+Turn 281:
+	> 0ds8v4
+8dv4s0
+Grade: 1 bull and 5 cows.
+
+Turn 282:
+	> d0s8v4
+8dv4s0
+Grade: 6 cows.
+
+Turn 283:
+	> s0d8v4
+8dv4s0
+Grade: 6 cows.
+
+Turn 284:
+	> 0sd8v4
+8dv4s0
+Grade: 6 cows.
+
+Turn 285:
+	> 08dsv4
+8dv4s0
+Grade: 6 cows.
+
+Turn 286:
+	> 80dsv4
+8dv4s0
+Grade: 1 bull and 5 cows.
+
+Turn 287:
+	> d08sv4
+8dv4s0
+Grade: 6 cows.
+
+Turn 288:
+	> 0d8sv4
+8dv4s0
+Grade: 1 bull and 5 cows.
+
+Turn 289:
+	> 8d0sv4
+8dv4s0
+Grade: 2 bulls and 4 cows.
+
+Turn 290:
+	> d80sv4
+8dv4s0
+Grade: 6 cows.
+
+Turn 291:
+	> d8s0v4
+8dv4s0
+Grade: 6 cows.
+
+Turn 292:
+	> 8ds0v4
+8dv4s0
+Grade: 2 bulls and 4 cows.
+
+Turn 293:
+	> sd80v4
+8dv4s0
+Grade: 1 bull and 5 cows.
+
+Turn 294:
+	> ds80v4
+8dv4s0
+Grade: 6 cows.
+
+Turn 295:
+	> 8sd0v4
+8dv4s0
+Grade: 1 bull and 5 cows.
+
+Turn 296:
+	> s8d0v4
+8dv4s0
+Grade: 6 cows.
+
+Turn 297:
+	> v8d0s4
+8dv4s0
+Grade: 1 bull and 5 cows.
+
+Turn 298:
+	> 8vd0s4
+8dv4s0
+Grade: 2 bulls and 4 cows.
+
+Turn 299:
+	> dv80s4
+8dv4s0
+Grade: 1 bull and 5 cows.
+
+Turn 300:
+	> vd80s4
+8dv4s0
+Grade: 2 bulls and 4 cows.
+
+Turn 301:
+	> 8dv0s4
+8dv4s0
+Grade: 4 bulls and 2 cows.
+
+Turn 302:
+	> d8v0s4
+8dv4s0
+Grade: 2 bulls and 4 cows.
+
+Turn 303:
+	> 08vds4
+8dv4s0
+Grade: 2 bulls and 4 cows.
+
+Turn 304:
+	> 80vds4
+8dv4s0
+Grade: 3 bulls and 3 cows.
+
+Turn 305:
+	> v08ds4
+8dv4s0
+Grade: 1 bull and 5 cows.
+
+Turn 306:
+	> 0v8ds4
+8dv4s0
+Grade: 1 bull and 5 cows.
+
+Turn 307:
+	> 8v0ds4
+8dv4s0
+Grade: 2 bulls and 4 cows.
+
+Turn 308:
+	> v80ds4
+8dv4s0
+Grade: 1 bull and 5 cows.
+
+Turn 309:
+	> vd08s4
+8dv4s0
+Grade: 2 bulls and 4 cows.
+
+Turn 310:
+	> dv08s4
+8dv4s0
+Grade: 1 bull and 5 cows.
+
+Turn 311:
+	> 0vd8s4
+8dv4s0
+Grade: 1 bull and 5 cows.
+
+Turn 312:
+	> v0d8s4
+8dv4s0
+Grade: 1 bull and 5 cows.
+
+Turn 313:
+	> d0v8s4
+8dv4s0
+Grade: 2 bulls and 4 cows.
+
+Turn 314:
+	> 0dv8s4
+8dv4s0
+Grade: 3 bulls and 3 cows.
+
+Turn 315:
+	> 0d8vs4
+8dv4s0
+Grade: 2 bulls and 4 cows.
+
+Turn 316:
+	> d08vs4
+8dv4s0
+Grade: 1 bull and 5 cows.
+
+Turn 317:
+	> 80dvs4
+8dv4s0
+Grade: 2 bulls and 4 cows.
+
+Turn 318:
+	> 08dvs4
+8dv4s0
+Grade: 1 bull and 5 cows.
+
+Turn 319:
+	> d80vs4
+8dv4s0
+Grade: 1 bull and 5 cows.
+
+Turn 320:
+	> 8d0vs4
+8dv4s0
+Grade: 3 bulls and 3 cows.
+
+Turn 321:
+	> sd0v84
+8dv4s0
+Grade: 1 bull and 5 cows.
+
+Turn 322:
+	> ds0v84
+8dv4s0
+Grade: 6 cows.
+
+Turn 323:
+	> 0sdv84
+8dv4s0
+Grade: 6 cows.
+
+Turn 324:
+	> s0dv84
+8dv4s0
+Grade: 6 cows.
+
+Turn 325:
+	> d0sv84
+8dv4s0
+Grade: 6 cows.
+
+Turn 326:
+	> 0dsv84
+8dv4s0
+Grade: 1 bull and 5 cows.
+
+Turn 327:
+	> vds084
+8dv4s0
+Grade: 1 bull and 5 cows.
+
+Turn 328:
+	> dvs084
+8dv4s0
+Grade: 6 cows.
+
+Turn 329:
+	> svd084
+8dv4s0
+Grade: 6 cows.
+
+Turn 330:
+	> vsd084
+8dv4s0
+Grade: 6 cows.
+
+Turn 331:
+	> dsv084
+8dv4s0
+Grade: 1 bull and 5 cows.
+
+Turn 332:
+	> sdv084
+8dv4s0
+Grade: 2 bulls and 4 cows.
+
+Turn 333:
+	> s0vd84
+8dv4s0
+Grade: 1 bull and 5 cows.
+
+Turn 334:
+	> 0svd84
+8dv4s0
+Grade: 1 bull and 5 cows.
+
+Turn 335:
+	> vs0d84
+8dv4s0
+Grade: 6 cows.
+
+Turn 336:
+	> sv0d84
+8dv4s0
+Grade: 6 cows.
+
+Turn 337:
+	> 0vsd84
+8dv4s0
+Grade: 6 cows.
+
+Turn 338:
+	> v0sd84
+8dv4s0
+Grade: 6 cows.
+
+Turn 339:
+	> v0ds84
+8dv4s0
+Grade: 6 cows.
+
+Turn 340:
+	> 0vds84
+8dv4s0
+Grade: 6 cows.
+
+Turn 341:
+	> dv0s84
+8dv4s0
+Grade: 6 cows.
+
+Turn 342:
+	> vd0s84
+8dv4s0
+Grade: 1 bull and 5 cows.
+
+Turn 343:
+	> 0dvs84
+8dv4s0
+Grade: 2 bulls and 4 cows.
+
+Turn 344:
+	> d0vs84
+8dv4s0
+Grade: 1 bull and 5 cows.
+
+Turn 345:
+	> 80vsd4
+8dv4s0
+Grade: 2 bulls and 4 cows.
+
+Turn 346:
+	> 08vsd4
+8dv4s0
+Grade: 1 bull and 5 cows.
+
+Turn 347:
+	> v80sd4
+8dv4s0
+Grade: 6 cows.
+
+Turn 348:
+	> 8v0sd4
+8dv4s0
+Grade: 1 bull and 5 cows.
+
+Turn 349:
+	> 0v8sd4
+8dv4s0
+Grade: 6 cows.
+
+Turn 350:
+	> v08sd4
+8dv4s0
+Grade: 6 cows.
+
+Turn 351:
+	> s08vd4
+8dv4s0
+Grade: 6 cows.
+
+Turn 352:
+	> 0s8vd4
+8dv4s0
+Grade: 6 cows.
+
+Turn 353:
+	> 8s0vd4
+8dv4s0
+Grade: 1 bull and 5 cows.
+
+Turn 354:
+	> s80vd4
+8dv4s0
+Grade: 6 cows.
+
+Turn 355:
+	> 08svd4
+8dv4s0
+Grade: 6 cows.
+
+Turn 356:
+	> 80svd4
+8dv4s0
+Grade: 1 bull and 5 cows.
+
+Turn 357:
+	> 8vs0d4
+8dv4s0
+Grade: 1 bull and 5 cows.
+
+Turn 358:
+	> v8s0d4
+8dv4s0
+Grade: 6 cows.
+
+Turn 359:
+	> s8v0d4
+8dv4s0
+Grade: 1 bull and 5 cows.
+
+Turn 360:
+	> 8sv0d4
+8dv4s0
+Grade: 2 bulls and 4 cows.
+
+Turn 361:
+	> vs80d4
+8dv4s0
+Grade: 6 cows.
+
+Turn 362:
+	> sv80d4
+8dv4s0
+Grade: 6 cows.
+
+Turn 363:
+	> sv08d4
+8dv4s0
+Grade: 6 cows.
+
+Turn 364:
+	> vs08d4
+8dv4s0
+Grade: 6 cows.
+
+Turn 365:
+	> 0sv8d4
+8dv4s0
+Grade: 1 bull and 5 cows.
+
+Turn 366:
+	> s0v8d4
+8dv4s0
+Grade: 1 bull and 5 cows.
+
+Turn 367:
+	> v0s8d4
+8dv4s0
+Grade: 6 cows.
+
+Turn 368:
+	> 0vs8d4
+8dv4s0
+Grade: 6 cows.
+
+Turn 369:
+	> dvs804
+8dv4s0
+Grade: 6 cows.
+
+Turn 370:
+	> vds804
+8dv4s0
+Grade: 1 bull and 5 cows.
+
+Turn 371:
+	> sdv804
+8dv4s0
+Grade: 2 bulls and 4 cows.
+
+Turn 372:
+	> dsv804
+8dv4s0
+Grade: 1 bull and 5 cows.
+
+Turn 373:
+	> vsd804
+8dv4s0
+Grade: 6 cows.
+
+Turn 374:
+	> svd804
+8dv4s0
+Grade: 6 cows.
+
+Turn 375:
+	> 8vds04
+8dv4s0
+Grade: 1 bull and 5 cows.
+
+Turn 376:
+	> v8ds04
+8dv4s0
+Grade: 6 cows.
+
+Turn 377:
+	> d8vs04
+8dv4s0
+Grade: 1 bull and 5 cows.
+
+Turn 378:
+	> 8dvs04
+8dv4s0
+Grade: 3 bulls and 3 cows.
+
+Turn 379:
+	> vd8s04
+8dv4s0
+Grade: 1 bull and 5 cows.
+
+Turn 380:
+	> dv8s04
+8dv4s0
+Grade: 6 cows.
+
+Turn 381:
+	> ds8v04
+8dv4s0
+Grade: 6 cows.
+
+Turn 382:
+	> sd8v04
+8dv4s0
+Grade: 1 bull and 5 cows.
+
+Turn 383:
+	> 8dsv04
+8dv4s0
+Grade: 2 bulls and 4 cows.
+
+Turn 384:
+	> d8sv04
+8dv4s0
+Grade: 6 cows.
+
+Turn 385:
+	> s8dv04
+8dv4s0
+Grade: 6 cows.
+
+Turn 386:
+	> 8sdv04
+8dv4s0
+Grade: 1 bull and 5 cows.
+
+Turn 387:
+	> 8svd04
+8dv4s0
+Grade: 2 bulls and 4 cows.
+
+Turn 388:
+	> s8vd04
+8dv4s0
+Grade: 1 bull and 5 cows.
+
+Turn 389:
+	> v8sd04
+8dv4s0
+Grade: 6 cows.
+
+Turn 390:
+	> 8vsd04
+8dv4s0
+Grade: 1 bull and 5 cows.
+
+Turn 391:
+	> sv8d04
+8dv4s0
+Grade: 6 cows.
+
+Turn 392:
+	> vs8d04
+8dv4s0
+Grade: 6 cows.
+
+Turn 393:
+	> vs4d08
+8dv4s0
+Grade: 6 cows.
+
+Turn 394:
+	> sv4d08
+8dv4s0
+Grade: 6 cows.
+
+Turn 395:
+	> 4vsd08
+8dv4s0
+Grade: 6 cows.
+
+Turn 396:
+	> v4sd08
+8dv4s0
+Grade: 6 cows.
+
+Turn 397:
+	> s4vd08
+8dv4s0
+Grade: 1 bull and 5 cows.
+
+Turn 398:
+	> 4svd08
+8dv4s0
+Grade: 1 bull and 5 cows.
+
+Turn 399:
+	> dsv408
+8dv4s0
+Grade: 2 bulls and 4 cows.
+
+Turn 400:
+	> sdv408
+8dv4s0
+Grade: 3 bulls and 3 cows.
+
+Turn 401:
+	> vds408
+8dv4s0
+Grade: 2 bulls and 4 cows.
+
+Turn 402:
+	> dvs408
+8dv4s0
+Grade: 1 bull and 5 cows.
+
+Turn 403:
+	> svd408
+8dv4s0
+Grade: 1 bull and 5 cows.
+
+Turn 404:
+	> vsd408
+8dv4s0
+Grade: 1 bull and 5 cows.
+
+Turn 405:
+	> v4ds08
+8dv4s0
+Grade: 6 cows.
+
+Turn 406:
+	> 4vds08
+8dv4s0
+Grade: 6 cows.
+
+Turn 407:
+	> dv4s08
+8dv4s0
+Grade: 6 cows.
+
+Turn 408:
+	> vd4s08
+8dv4s0
+Grade: 1 bull and 5 cows.
+
+Turn 409:
+	> 4dvs08
+8dv4s0
+Grade: 2 bulls and 4 cows.
+
+Turn 410:
+	> d4vs08
+8dv4s0
+Grade: 1 bull and 5 cows.
+
+Turn 411:
+	> d4sv08
+8dv4s0
+Grade: 6 cows.
+
+Turn 412:
+	> 4dsv08
+8dv4s0
+Grade: 1 bull and 5 cows.
+
+Turn 413:
+	> sd4v08
+8dv4s0
+Grade: 1 bull and 5 cows.
+
+Turn 414:
+	> ds4v08
+8dv4s0
+Grade: 6 cows.
+
+Turn 415:
+	> 4sdv08
+8dv4s0
+Grade: 6 cows.
+
+Turn 416:
+	> s4dv08
+8dv4s0
+Grade: 6 cows.
+
+Turn 417:
+	> 04dvs8
+8dv4s0
+Grade: 1 bull and 5 cows.
+
+Turn 418:
+	> 40dvs8
+8dv4s0
+Grade: 1 bull and 5 cows.
+
+Turn 419:
+	> d04vs8
+8dv4s0
+Grade: 1 bull and 5 cows.
+
+Turn 420:
+	> 0d4vs8
+8dv4s0
+Grade: 2 bulls and 4 cows.
+
+Turn 421:
+	> 4d0vs8
+8dv4s0
+Grade: 2 bulls and 4 cows.
+
+Turn 422:
+	> d40vs8
+8dv4s0
+Grade: 1 bull and 5 cows.
+
+Turn 423:
+	> v40ds8
+8dv4s0
+Grade: 1 bull and 5 cows.
+
+Turn 424:
+	> 4v0ds8
+8dv4s0
+Grade: 1 bull and 5 cows.
+
+Turn 425:
+	> 0v4ds8
+8dv4s0
+Grade: 1 bull and 5 cows.
+
+Turn 426:
+	> v04ds8
+8dv4s0
+Grade: 1 bull and 5 cows.
+
+Turn 427:
+	> 40vds8
+8dv4s0
+Grade: 2 bulls and 4 cows.
+
+Turn 428:
+	> 04vds8
+8dv4s0
+Grade: 2 bulls and 4 cows.
+
+Turn 429:
+	> 0dv4s8
+8dv4s0
+Grade: 4 bulls and 2 cows.
+
+Turn 430:
+	> d0v4s8
+8dv4s0
+Grade: 3 bulls and 3 cows.
+
+Turn 431:
+	> v0d4s8
+8dv4s0
+Grade: 2 bulls and 4 cows.
+
+Turn 432:
+	> 0vd4s8
+8dv4s0
+Grade: 2 bulls and 4 cows.
+
+Turn 433:
+	> dv04s8
+8dv4s0
+Grade: 2 bulls and 4 cows.
+
+Turn 434:
+	> vd04s8
+8dv4s0
+Grade: 3 bulls and 3 cows.
+
+Turn 435:
+	> vd40s8
+8dv4s0
+Grade: 2 bulls and 4 cows.
+
+Turn 436:
+	> dv40s8
+8dv4s0
+Grade: 1 bull and 5 cows.
+
+Turn 437:
+	> 4vd0s8
+8dv4s0
+Grade: 1 bull and 5 cows.
+
+Turn 438:
+	> v4d0s8
+8dv4s0
+Grade: 1 bull and 5 cows.
+
+Turn 439:
+	> d4v0s8
+8dv4s0
+Grade: 2 bulls and 4 cows.
+
+Turn 440:
+	> 4dv0s8
+8dv4s0
+Grade: 3 bulls and 3 cows.
+
+Turn 441:
+	> sdv048
+8dv4s0
+Grade: 2 bulls and 4 cows.
+
+Turn 442:
+	> dsv048
+8dv4s0
+Grade: 1 bull and 5 cows.
+
+Turn 443:
+	> vsd048
+8dv4s0
+Grade: 6 cows.
+
+Turn 444:
+	> svd048
+8dv4s0
+Grade: 6 cows.
+
+Turn 445:
+	> dvs048
+8dv4s0
+Grade: 6 cows.
+
+Turn 446:
+	> vds048
+8dv4s0
+Grade: 1 bull and 5 cows.
+
+Turn 447:
+	> 0dsv48
+8dv4s0
+Grade: 1 bull and 5 cows.
+
+Turn 448:
+	> d0sv48
+8dv4s0
+Grade: 6 cows.
+
+Turn 449:
+	> s0dv48
+8dv4s0
+Grade: 6 cows.
+
+Turn 450:
+	> 0sdv48
+8dv4s0
+Grade: 6 cows.
+
+Turn 451:
+	> ds0v48
+8dv4s0
+Grade: 6 cows.
+
+Turn 452:
+	> sd0v48
+8dv4s0
+Grade: 1 bull and 5 cows.
+
+Turn 453:
+	> sv0d48
+8dv4s0
+Grade: 6 cows.
+
+Turn 454:
+	> vs0d48
+8dv4s0
+Grade: 6 cows.
+
+Turn 455:
+	> 0svd48
+8dv4s0
+Grade: 1 bull and 5 cows.
+
+Turn 456:
+	> s0vd48
+8dv4s0
+Grade: 1 bull and 5 cows.
+
+Turn 457:
+	> v0sd48
+8dv4s0
+Grade: 6 cows.
+
+Turn 458:
+	> 0vsd48
+8dv4s0
+Grade: 6 cows.
+
+Turn 459:
+	> 0vds48
+8dv4s0
+Grade: 6 cows.
+
+Turn 460:
+	> v0ds48
+8dv4s0
+Grade: 6 cows.
+
+Turn 461:
+	> d0vs48
+8dv4s0
+Grade: 1 bull and 5 cows.
+
+Turn 462:
+	> 0dvs48
+8dv4s0
+Grade: 2 bulls and 4 cows.
+
+Turn 463:
+	> vd0s48
+8dv4s0
+Grade: 1 bull and 5 cows.
+
+Turn 464:
+	> dv0s48
+8dv4s0
+Grade: 6 cows.
+
+Turn 465:
+	> 4v0sd8
+8dv4s0
+Grade: 6 cows.
+
+Turn 466:
+	> v40sd8
+8dv4s0
+Grade: 6 cows.
+
+Turn 467:
+	> 04vsd8
+8dv4s0
+Grade: 1 bull and 5 cows.
+
+Turn 468:
+	> 40vsd8
+8dv4s0
+Grade: 1 bull and 5 cows.
+
+Turn 469:
+	> v04sd8
+8dv4s0
+Grade: 6 cows.
+
+Turn 470:
+	> 0v4sd8
+8dv4s0
+Grade: 6 cows.
+
+Turn 471:
+	> sv40d8
+8dv4s0
+Grade: 6 cows.
+
+Turn 472:
+	> vs40d8
+8dv4s0
+Grade: 6 cows.
+
+Turn 473:
+	> 4sv0d8
+8dv4s0
+Grade: 1 bull and 5 cows.
+
+Turn 474:
+	> s4v0d8
+8dv4s0
+Grade: 1 bull and 5 cows.
+
+Turn 475:
+	> v4s0d8
+8dv4s0
+Grade: 6 cows.
+
+Turn 476:
+	> 4vs0d8
+8dv4s0
+Grade: 6 cows.
+
+Turn 477:
+	> 40svd8
+8dv4s0
+Grade: 6 cows.
+
+Turn 478:
+	> 04svd8
+8dv4s0
+Grade: 6 cows.
+
+Turn 479:
+	> s40vd8
+8dv4s0
+Grade: 6 cows.
+
+Turn 480:
+	> 4s0vd8
+8dv4s0
+Grade: 6 cows.
+
+Turn 481:
+	> 0s4vd8
+8dv4s0
+Grade: 6 cows.
+
+Turn 482:
+	> s04vd8
+8dv4s0
+Grade: 6 cows.
+
+Turn 483:
+	> s0v4d8
+8dv4s0
+Grade: 2 bulls and 4 cows.
+
+Turn 484:
+	> 0sv4d8
+8dv4s0
+Grade: 2 bulls and 4 cows.
+
+Turn 485:
+	> vs04d8
+8dv4s0
+Grade: 1 bull and 5 cows.
+
+Turn 486:
+	> sv04d8
+8dv4s0
+Grade: 1 bull and 5 cows.
+
+Turn 487:
+	> 0vs4d8
+8dv4s0
+Grade: 1 bull and 5 cows.
+
+Turn 488:
+	> v0s4d8
+8dv4s0
+Grade: 1 bull and 5 cows.
+
+Turn 489:
+	> d0s4v8
+8dv4s0
+Grade: 1 bull and 5 cows.
+
+Turn 490:
+	> 0ds4v8
+8dv4s0
+Grade: 2 bulls and 4 cows.
+
+Turn 491:
+	> sd04v8
+8dv4s0
+Grade: 2 bulls and 4 cows.
+
+Turn 492:
+	> ds04v8
+8dv4s0
+Grade: 1 bull and 5 cows.
+
+Turn 493:
+	> 0sd4v8
+8dv4s0
+Grade: 1 bull and 5 cows.
+
+Turn 494:
+	> s0d4v8
+8dv4s0
+Grade: 1 bull and 5 cows.
+
+Turn 495:
+	> 40dsv8
+8dv4s0
+Grade: 6 cows.
+
+Turn 496:
+	> 04dsv8
+8dv4s0
+Grade: 6 cows.
+
+Turn 497:
+	> d40sv8
+8dv4s0
+Grade: 6 cows.
+
+Turn 498:
+	> 4d0sv8
+8dv4s0
+Grade: 1 bull and 5 cows.
+
+Turn 499:
+	> 0d4sv8
+8dv4s0
+Grade: 1 bull and 5 cows.
+
+Turn 500:
+	> d04sv8
+8dv4s0
+Grade: 6 cows.
+
+Turn 501:
+	> ds40v8
+8dv4s0
+Grade: 6 cows.
+
+Turn 502:
+	> sd40v8
+8dv4s0
+Grade: 1 bull and 5 cows.
+
+Turn 503:
+	> 4ds0v8
+8dv4s0
+Grade: 1 bull and 5 cows.
+
+Turn 504:
+	> d4s0v8
+8dv4s0
+Grade: 6 cows.
+
+Turn 505:
+	> s4d0v8
+8dv4s0
+Grade: 6 cows.
+
+Turn 506:
+	> 4sd0v8
+8dv4s0
+Grade: 6 cows.
+
+Turn 507:
+	> 4s0dv8
+8dv4s0
+Grade: 6 cows.
+
+Turn 508:
+	> s40dv8
+8dv4s0
+Grade: 6 cows.
+
+Turn 509:
+	> 04sdv8
+8dv4s0
+Grade: 6 cows.
+
+Turn 510:
+	> 40sdv8
+8dv4s0
+Grade: 6 cows.
+
+Turn 511:
+	> s04dv8
+8dv4s0
+Grade: 6 cows.
+
+Turn 512:
+	> 0s4dv8
+8dv4s0
+Grade: 6 cows.
+
+Turn 513:
+	> 0s48vd
+8dv4s0
+Grade: 6 cows.
+
+Turn 514:
+	> s048vd
+8dv4s0
+Grade: 6 cows.
+
+Turn 515:
+	> 40s8vd
+8dv4s0
+Grade: 6 cows.
+
+Turn 516:
+	> 04s8vd
+8dv4s0
+Grade: 6 cows.
+
+Turn 517:
+	> s408vd
+8dv4s0
+Grade: 6 cows.
+
+Turn 518:
+	> 4s08vd
+8dv4s0
+Grade: 6 cows.
+
+Turn 519:
+	> 8s04vd
+8dv4s0
+Grade: 2 bulls and 4 cows.
+
+Turn 520:
+	> s804vd
+8dv4s0
+Grade: 1 bull and 5 cows.
+
+Turn 521:
+	> 08s4vd
+8dv4s0
+Grade: 1 bull and 5 cows.
+
+Turn 522:
+	> 80s4vd
+8dv4s0
+Grade: 2 bulls and 4 cows.
+
+Turn 523:
+	> s084vd
+8dv4s0
+Grade: 1 bull and 5 cows.
+
+Turn 524:
+	> 0s84vd
+8dv4s0
+Grade: 1 bull and 5 cows.
+
+Turn 525:
+	> 048svd
+8dv4s0
+Grade: 6 cows.
+
+Turn 526:
+	> 408svd
+8dv4s0
+Grade: 6 cows.
+
+Turn 527:
+	> 804svd
+8dv4s0
+Grade: 1 bull and 5 cows.
+
+Turn 528:
+	> 084svd
+8dv4s0
+Grade: 6 cows.
+
+Turn 529:
+	> 480svd
+8dv4s0
+Grade: 6 cows.
+
+Turn 530:
+	> 840svd
+8dv4s0
+Grade: 1 bull and 5 cows.
+
+Turn 531:
+	> 84s0vd
+8dv4s0
+Grade: 1 bull and 5 cows.
+
+Turn 532:
+	> 48s0vd
+8dv4s0
+Grade: 6 cows.
+
+Turn 533:
+	> s840vd
+8dv4s0
+Grade: 6 cows.
+
+Turn 534:
+	> 8s40vd
+8dv4s0
+Grade: 1 bull and 5 cows.
+
+Turn 535:
+	> 4s80vd
+8dv4s0
+Grade: 6 cows.
+
+Turn 536:
+	> s480vd
+8dv4s0
+Grade: 6 cows.
+
+Turn 537:
+	> v480sd
+8dv4s0
+Grade: 1 bull and 5 cows.
+
+Turn 538:
+	> 4v80sd
+8dv4s0
+Grade: 1 bull and 5 cows.
+
+Turn 539:
+	> 8v40sd
+8dv4s0
+Grade: 2 bulls and 4 cows.
+
+Turn 540:
+	> v840sd
+8dv4s0
+Grade: 1 bull and 5 cows.
+
+Turn 541:
+	> 48v0sd
+8dv4s0
+Grade: 2 bulls and 4 cows.
+
+Turn 542:
+	> 84v0sd
+8dv4s0
+Grade: 3 bulls and 3 cows.
+
+Turn 543:
+	> 04v8sd
+8dv4s0
+Grade: 2 bulls and 4 cows.
+
+Turn 544:
+	> 40v8sd
+8dv4s0
+Grade: 2 bulls and 4 cows.
+
+Turn 545:
+	> v048sd
+8dv4s0
+Grade: 1 bull and 5 cows.
+
+Turn 546:
+	> 0v48sd
+8dv4s0
+Grade: 1 bull and 5 cows.
+
+Turn 547:
+	> 4v08sd
+8dv4s0
+Grade: 1 bull and 5 cows.
+
+Turn 548:
+	> v408sd
+8dv4s0
+Grade: 1 bull and 5 cows.
+
+Turn 549:
+	> v804sd
+8dv4s0
+Grade: 2 bulls and 4 cows.
+
+Turn 550:
+	> 8v04sd
+8dv4s0
+Grade: 3 bulls and 3 cows.
+
+Turn 551:
+	> 0v84sd
+8dv4s0
+Grade: 2 bulls and 4 cows.
+
+Turn 552:
+	> v084sd
+8dv4s0
+Grade: 2 bulls and 4 cows.
+
+Turn 553:
+	> 80v4sd
+8dv4s0
+Grade: 4 bulls and 2 cows.
+
+Turn 554:
+	> 08v4sd
+8dv4s0
+Grade: 3 bulls and 3 cows.
+
+Turn 555:
+	> 084vsd
+8dv4s0
+Grade: 1 bull and 5 cows.
+
+Turn 556:
+	> 804vsd
+8dv4s0
+Grade: 2 bulls and 4 cows.
+
+Turn 557:
+	> 408vsd
+8dv4s0
+Grade: 1 bull and 5 cows.
+
+Turn 558:
+	> 048vsd
+8dv4s0
+Grade: 1 bull and 5 cows.
+
+Turn 559:
+	> 840vsd
+8dv4s0
+Grade: 2 bulls and 4 cows.
+
+Turn 560:
+	> 480vsd
+8dv4s0
+Grade: 1 bull and 5 cows.
+
+Turn 561:
+	> s80v4d
+8dv4s0
+Grade: 6 cows.
+
+Turn 562:
+	> 8s0v4d
+8dv4s0
+Grade: 1 bull and 5 cows.
+
+Turn 563:
+	> 0s8v4d
+8dv4s0
+Grade: 6 cows.
+
+Turn 564:
+	> s08v4d
+8dv4s0
+Grade: 6 cows.
+
+Turn 565:
+	> 80sv4d
+8dv4s0
+Grade: 1 bull and 5 cows.
+
+Turn 566:
+	> 08sv4d
+8dv4s0
+Grade: 6 cows.
+
+Turn 567:
+	> v8s04d
+8dv4s0
+Grade: 6 cows.
+
+Turn 568:
+	> 8vs04d
+8dv4s0
+Grade: 1 bull and 5 cows.
+
+Turn 569:
+	> sv804d
+8dv4s0
+Grade: 6 cows.
+
+Turn 570:
+	> vs804d
+8dv4s0
+Grade: 6 cows.
+
+Turn 571:
+	> 8sv04d
+8dv4s0
+Grade: 2 bulls and 4 cows.
+
+Turn 572:
+	> s8v04d
+8dv4s0
+Grade: 1 bull and 5 cows.
+
+Turn 573:
+	> s0v84d
+8dv4s0
+Grade: 1 bull and 5 cows.
+
+Turn 574:
+	> 0sv84d
+8dv4s0
+Grade: 1 bull and 5 cows.
+
+Turn 575:
+	> vs084d
+8dv4s0
+Grade: 6 cows.
+
+Turn 576:
+	> sv084d
+8dv4s0
+Grade: 6 cows.
+
+Turn 577:
+	> 0vs84d
+8dv4s0
+Grade: 6 cows.
+
+Turn 578:
+	> v0s84d
+8dv4s0
+Grade: 6 cows.
+
+Turn 579:
+	> v08s4d
+8dv4s0
+Grade: 6 cows.
+
+Turn 580:
+	> 0v8s4d
+8dv4s0
+Grade: 6 cows.
+
+Turn 581:
+	> 8v0s4d
+8dv4s0
+Grade: 1 bull and 5 cows.
+
+Turn 582:
+	> v80s4d
+8dv4s0
+Grade: 6 cows.
+
+Turn 583:
+	> 08vs4d
+8dv4s0
+Grade: 1 bull and 5 cows.
+
+Turn 584:
+	> 80vs4d
+8dv4s0
+Grade: 2 bulls and 4 cows.
+
+Turn 585:
+	> 40vs8d
+8dv4s0
+Grade: 1 bull and 5 cows.
+
+Turn 586:
+	> 04vs8d
+8dv4s0
+Grade: 1 bull and 5 cows.
+
+Turn 587:
+	> v40s8d
+8dv4s0
+Grade: 6 cows.
+
+Turn 588:
+	> 4v0s8d
+8dv4s0
+Grade: 6 cows.
+
+Turn 589:
+	> 0v4s8d
+8dv4s0
+Grade: 6 cows.
+
+Turn 590:
+	> v04s8d
+8dv4s0
+Grade: 6 cows.
+
+Turn 591:
+	> s04v8d
+8dv4s0
+Grade: 6 cows.
+
+Turn 592:
+	> 0s4v8d
+8dv4s0
+Grade: 6 cows.
+
+Turn 593:
+	> 4s0v8d
+8dv4s0
+Grade: 6 cows.
+
+Turn 594:
+	> s40v8d
+8dv4s0
+Grade: 6 cows.
+
+Turn 595:
+	> 04sv8d
+8dv4s0
+Grade: 6 cows.
+
+Turn 596:
+	> 40sv8d
+8dv4s0
+Grade: 6 cows.
+
+Turn 597:
+	> 4vs08d
+8dv4s0
+Grade: 6 cows.
+
+Turn 598:
+	> v4s08d
+8dv4s0
+Grade: 6 cows.
+
+Turn 599:
+	> s4v08d
+8dv4s0
+Grade: 1 bull and 5 cows.
+
+Turn 600:
+	> 4sv08d
+8dv4s0
+Grade: 1 bull and 5 cows.
+
+Turn 601:
+	> vs408d
+8dv4s0
+Grade: 6 cows.
+
+Turn 602:
+	> sv408d
+8dv4s0
+Grade: 6 cows.
+
+Turn 603:
+	> sv048d
+8dv4s0
+Grade: 1 bull and 5 cows.
+
+Turn 604:
+	> vs048d
+8dv4s0
+Grade: 1 bull and 5 cows.
+
+Turn 605:
+	> 0sv48d
+8dv4s0
+Grade: 2 bulls and 4 cows.
+
+Turn 606:
+	> s0v48d
+8dv4s0
+Grade: 2 bulls and 4 cows.
+
+Turn 607:
+	> v0s48d
+8dv4s0
+Grade: 1 bull and 5 cows.
+
+Turn 608:
+	> 0vs48d
+8dv4s0
+Grade: 1 bull and 5 cows.
+
+Turn 609:
+	> 8vs40d
+8dv4s0
+Grade: 2 bulls and 4 cows.
+
+Turn 610:
+	> v8s40d
+8dv4s0
+Grade: 1 bull and 5 cows.
+
+Turn 611:
+	> s8v40d
+8dv4s0
+Grade: 2 bulls and 4 cows.
+
+Turn 612:
+	> 8sv40d
+8dv4s0
+Grade: 3 bulls and 3 cows.
+
+Turn 613:
+	> vs840d
+8dv4s0
+Grade: 1 bull and 5 cows.
+
+Turn 614:
+	> sv840d
+8dv4s0
+Grade: 1 bull and 5 cows.
+
+Turn 615:
+	> 4v8s0d
+8dv4s0
+Grade: 6 cows.
+
+Turn 616:
+	> v48s0d
+8dv4s0
+Grade: 6 cows.
+
+Turn 617:
+	> 84vs0d
+8dv4s0
+Grade: 2 bulls and 4 cows.
+
+Turn 618:
+	> 48vs0d
+8dv4s0
+Grade: 1 bull and 5 cows.
+
+Turn 619:
+	> v84s0d
+8dv4s0
+Grade: 6 cows.
+
+Turn 620:
+	> 8v4s0d
+8dv4s0
+Grade: 1 bull and 5 cows.
+
+Turn 621:
+	> 8s4v0d
+8dv4s0
+Grade: 1 bull and 5 cows.
+
+Turn 622:
+	> s84v0d
+8dv4s0
+Grade: 6 cows.
+
+Turn 623:
+	> 48sv0d
+8dv4s0
+Grade: 6 cows.
+
+Turn 624:
+	> 84sv0d
+8dv4s0
+Grade: 1 bull and 5 cows.
+
+Turn 625:
+	> s48v0d
+8dv4s0
+Grade: 6 cows.
+
+Turn 626:
+	> 4s8v0d
+8dv4s0
+Grade: 6 cows.
+
+Turn 627:
+	> 4sv80d
+8dv4s0
+Grade: 1 bull and 5 cows.
+
+Turn 628:
+	> s4v80d
+8dv4s0
+Grade: 1 bull and 5 cows.
+
+Turn 629:
+	> v4s80d
+8dv4s0
+Grade: 6 cows.
+
+Turn 630:
+	> 4vs80d
+8dv4s0
+Grade: 6 cows.
+
+Turn 631:
+	> sv480d
+8dv4s0
+Grade: 6 cows.
+
+Turn 632:
+	> vs480d
+8dv4s0
+Grade: 6 cows.
+
+Turn 633:
+	> vs48d0
+8dv4s0
+Grade: 1 bull and 5 cows.
+
+Turn 634:
+	> sv48d0
+8dv4s0
+Grade: 1 bull and 5 cows.
+
+Turn 635:
+	> 4vs8d0
+8dv4s0
+Grade: 1 bull and 5 cows.
+
+Turn 636:
+	> v4s8d0
+8dv4s0
+Grade: 1 bull and 5 cows.
+
+Turn 637:
+	> s4v8d0
+8dv4s0
+Grade: 2 bulls and 4 cows.
+
+Turn 638:
+	> 4sv8d0
+8dv4s0
+Grade: 2 bulls and 4 cows.
+
+Turn 639:
+	> 8sv4d0
+8dv4s0
+Grade: 4 bulls and 2 cows.
+
+Turn 640:
+	> s8v4d0
+8dv4s0
+Grade: 3 bulls and 3 cows.
+
+Turn 641:
+	> v8s4d0
+8dv4s0
+Grade: 2 bulls and 4 cows.
+
+Turn 642:
+	> 8vs4d0
+8dv4s0
+Grade: 3 bulls and 3 cows.
+
+Turn 643:
+	> sv84d0
+8dv4s0
+Grade: 2 bulls and 4 cows.
+
+Turn 644:
+	> vs84d0
+8dv4s0
+Grade: 2 bulls and 4 cows.
+
+Turn 645:
+	> v48sd0
+8dv4s0
+Grade: 1 bull and 5 cows.
+
+Turn 646:
+	> 4v8sd0
+8dv4s0
+Grade: 1 bull and 5 cows.
+
+Turn 647:
+	> 8v4sd0
+8dv4s0
+Grade: 2 bulls and 4 cows.
+
+Turn 648:
+	> v84sd0
+8dv4s0
+Grade: 1 bull and 5 cows.
+
+Turn 649:
+	> 48vsd0
+8dv4s0
+Grade: 2 bulls and 4 cows.
+
+Turn 650:
+	> 84vsd0
+8dv4s0
+Grade: 3 bulls and 3 cows.
+
+Turn 651:
+	> 84svd0
+8dv4s0
+Grade: 2 bulls and 4 cows.
+
+Turn 652:
+	> 48svd0
+8dv4s0
+Grade: 1 bull and 5 cows.
+
+Turn 653:
+	> s84vd0
+8dv4s0
+Grade: 1 bull and 5 cows.
+
+Turn 654:
+	> 8s4vd0
+8dv4s0
+Grade: 2 bulls and 4 cows.
+
+Turn 655:
+	> 4s8vd0
+8dv4s0
+Grade: 1 bull and 5 cows.
+
+Turn 656:
+	> s48vd0
+8dv4s0
+Grade: 1 bull and 5 cows.
+
+Turn 657:
+	> d48vs0
+8dv4s0
+Grade: 2 bulls and 4 cows.
+
+Turn 658:
+	> 4d8vs0
+8dv4s0
+Grade: 3 bulls and 3 cows.
+
+Turn 659:
+	> 8d4vs0
+8dv4s0
+Grade: 4 bulls and 2 cows.
+
+Turn 660:
+	> d84vs0
+8dv4s0
+Grade: 2 bulls and 4 cows.
+
+Turn 661:
+	> 48dvs0
+8dv4s0
+Grade: 2 bulls and 4 cows.
+
+Turn 662:
+	> 84dvs0
+8dv4s0
+Grade: 3 bulls and 3 cows.
+
+Turn 663:
+	> v4d8s0
+8dv4s0
+Grade: 2 bulls and 4 cows.
+
+Turn 664:
+	> 4vd8s0
+8dv4s0
+Grade: 2 bulls and 4 cows.
+
+Turn 665:
+	> dv48s0
+8dv4s0
+Grade: 2 bulls and 4 cows.
+
+Turn 666:
+	> vd48s0
+8dv4s0
+Grade: 3 bulls and 3 cows.
+
+Turn 667:
+	> 4dv8s0
+8dv4s0
+Grade: 4 bulls and 2 cows.
+
+Turn 668:
+	> d4v8s0
+8dv4s0
+Grade: 3 bulls and 3 cows.
+
+Turn 669:
+	> d8v4s0
+8dv4s0
+Grade: 4 bulls and 2 cows.
+
+Turn 670:
+	> 8dv4s0
+8dv4s0
+Grade: 6 bulls.
+.Congratulations! You guessed the secret code.
+[1;31m
+Start test 4[0m
+%Input the length of the secret code:
+> 11
+2Input the number of possible symbols in the code:
+> 10
+XError: it's not possible to generate a code with a length of 11 with 10 unique symbols.
